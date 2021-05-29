@@ -1,0 +1,10 @@
+js
+const element = document.createElement('div');      -> adds element div.
+element.classList.add('person');                    -> adds class person in following div.
+
+	
+sort()      ->
+fiiilter()  ->
+map()       ->https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
+foreach()   ->
+reduce()    ->
